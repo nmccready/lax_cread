@@ -5,12 +5,26 @@ draft: true
 weight: 2
 ---
 
-Since I began coaching the littles back in 2021 I consistently recommend [String Complete JR 2](https://stringking.com/mens-lacrosse/sticks/complete-2-jr/?sku=complete-2-jr-legend-jr-a-105-type-3s-black-black) for all newbie littles. The key features that sets your child up for success are:
+Since I began coaching young lacrosse players in 2021, I have consistently recommended the [String Complete JR 2](https://stringking.com/mens-lacrosse/sticks/complete-2-jr/?sku=complete-2-jr-legend-jr-a-105-type-3s-black-black) for all beginners. The key features that set your child up for success are:
 
-- consistent pocket that has little to no whip
-- wider head making catching passes easier
-- thinner shaft (A105) idea for smaller hands
+- A consistent pocket with little to no whip
+- A pocket that can be adjusted if need be (usually perfect as is)
+- A wider head that makes catching passes easier
+- A thinner shaft (A105) that is ideal for smaller hands
 
-Another tip to incoming laxers is to buy more than one stick as they break and a backup is ideal.
+Another tip for new lacrosse players is to buy more than one stick, as they are prone to breaking. Having a backup stick is ideal.
 
-When beginning this sport it is crucial to have a great stick. I know know, the you just spent a bazillion dollars on usalacrosse, league registration, pads, helmet, and etc. However, the single most important piece of equipment is the stick and **DO NOT CHEAP OUT**. This can make or break your kids experience.
+When starting out in this sport, it is crucial to have a great stick. I know you just spent a lot of money on [usalacrosse](https://usalacrosse.com), league registration, pads, helmet, etc. However, the single most important piece of equipment is the stick and you should not cheap out. This can make or break your child's experience.
+
+Other Complete Sticks Worth Mentioning:
+
+- [StringKing Complete Sr.](https://stringking.com/mens-lacrosse/sticks/complete-2-sr/?sku=complete-2-sr-legend-sr-a-155-type-3s-black-black)
+- [StringKing Complete Int.](https://stringking.com/mens-lacrosse/sticks/complete-2-int/?sku=complete-2-int-legend-int-a-135-type-3s-black-black)
+- [Maverik TackTik Alloy Complete](https://maveriklacrosse.com/products/tactik-alloy-complete-stick)
+- [Maverik Charger Complete](https://maveriklacrosse.com/products/charger-complete-stick?variant=42677317402862)
+- [Powell Scout Youth Complete](https://www.powelllacrosse.com/products/scout)
+- [Powell Ranger Complete](https://www.powelllacrosse.com/products/ranger-complete?variant=44386485207330)
+- [Powell Switchback Complete](https://www.powelllacrosse.com/products/switchback-complete-w-variations?variant=44443789230370)
+- [Powell Bloodline Complete](https://www.powelllacrosse.com/products/bloodline-complete)
+- [ECD Bravo 1](https://ecdlax.com/products/bravo-1-elite-setup)
+- [ECD Bravo 1 Defense](https://ecdlax.com/collections/mens-lacrosse-complete-sticks/products/bravo-1-elite-setup-60in)
