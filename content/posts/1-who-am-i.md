@@ -1,13 +1,12 @@
 ---
 title: "Who Am I"
 date: 2023-08-15
-draft: true
 weight: 1
 ---
 
 ## Introduction
 
-Who am I you may ask? I am coach McCready and I have been knee deep back into lacrosse since 2018. In Dec 2018 by chance, I ran into the head varsity and jv lacrosse coaches at Cosby highschool at a Raven's playoff party. I had a great time and in conversations I asked if they needed help, the rest is history. Now almost 5 years later I have been enjoying the creators game as:
+I am Coach McCready, and I have been involved in lacrosse since 2018. In December 2018, I met the head varsity and junior varsity lacrosse coaches at Cosby High School at a Ravens playoff party. I offered to help, and the rest is history. In the nearly five years since then, I have enjoyed coaching and playing lacrosse in the following capacities:
 
 - Assistant Goalie Coach Cosby Varsity 2019-2023
 - Player [Richmond Summer League Lacrosse](https://www.richmondsummerlax.com/) 2019, 2021-2022
@@ -18,13 +17,13 @@ Who am I you may ask? I am coach McCready and I have been knee deep back into la
 - 2031-2032 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Assistant Coach, 2022-2023
 - 2032-2033 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Head Coach, 2023-2024
 
-Along this journey I have tried to soak up as much lacrosse knowledge that I should have gained in my younger years. As with everything the game is every changing and there always seems to be something new to learn
-
-Coaching and giving the game to others has been one of the most fulfilling things I have ever done. Giving yourself to something of a bigger cause then yourself is awesome. The other great aspect of this game is the friends you make along the way coaches, parents, players, and the list goes on.
+Throughout this journey, I have strived to learn as much about lacrosse as possible. As with anything, the game is constantly evolving, and there is always something new to learn. Coaching and giving back to the game has been one of the most rewarding experiences of my life. There is nothing quite like giving back to something that has given you so much. The other great aspect of this game is the people you meet along the way—coaches, parents, players, and more. I am grateful for the opportunity to be a part of the lacrosse community.
 
 ### Younger Years
 
-During my younger years I exclusively played goalie. I always loved the game but due to shyness / anxiety, and health I never tried another position until much older (39).
+During my younger years I exclusively played goalie. I always loved the game but due to shyness / anxiety, and health I never tried another position until much older (39). If had of played other positions than my clearing game would not have suffered.
+
+**This is a one of the reasons that I try to push most young players away from playing goalie exclusively.**
 
 - [Freedom Lacrosse](https://www.freedomlacrosse.org/) 1991-1994
 - [South Carroll High School JV](https://cavalierathletics.com/) 1995-1996

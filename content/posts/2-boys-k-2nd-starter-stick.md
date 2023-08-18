@@ -1,7 +1,6 @@
 ---
 title: "Boys K-2nd Grade Starter Stick"
 date: 2023-08-16T20:46:47-04:00
-draft: true
 weight: 2
 ---
 
