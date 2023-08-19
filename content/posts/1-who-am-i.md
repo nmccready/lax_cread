@@ -34,4 +34,4 @@ During my younger years I exclusively played goalie. I always loved the game but
 
 #### Why Blog?
 
-Every season coaching parents like to have background about myself and or my recommendations for lacrosse. Instead of sending out the same email, I decided it was time to share these things more publicly as well as monetize on the lacrosse equipment I recommend.
+Every season coaching parents like to have background about myself and or my recommendations for lacrosse. Instead of sending out the same email, I decided it was time to share these things more publicly.
