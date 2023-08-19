@@ -16,6 +16,8 @@ minify:
   minifyOutput: true
 
 params:
+  footer:
+    disclose: "Note: Some links may be affiliate links. We may get paid if you buy something or take an action after clicking one of the links."
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: LAXCREAD
   description: "Blogging all things Lacrosse"
@@ -142,6 +144,8 @@ menu:
       name: FCA
       url: https://www.fcarichmondlacrosse.com/
       weight: 50
+# copyright: "# junk"
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
