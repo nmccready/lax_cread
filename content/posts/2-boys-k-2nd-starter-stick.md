@@ -4,7 +4,7 @@ date: 2023-08-16T20:46:47-04:00
 weight: 2
 ---
 
-Since I began coaching young lacrosse players in 2021, I have consistently recommended the [String Complete JR 2](https://stringking.com/mens-lacrosse/sticks/complete-2-jr/?sku=complete-2-jr-legend-jr-a-105-type-3s-black-black) for all beginners. The key features that set your child up for success are:
+Since I began coaching young lacrosse players in 2021, I have consistently recommended the [String Complete JR 2](https://www.amazon.com/dp/B0778VH4Y8/ref=twister_B0778XR9X8?_encoding=UTF8&th=1&_encoding=UTF8&=cread04-20&=ur2&=19d0ec9d2a86da827b20ccd38ec4881b&=1789&=9325) for all beginners. The key features that set your child up for success are:
 
 - A consistent pocket with little to no whip
 - A pocket that can be adjusted if need be (usually perfect as is)
