@@ -1,0 +1,10 @@
+{{ $map := .Get "type" }}
+{{ $products := index .Site.Params.products $map }}
+{{ $allMd := "" }}
+
+{{ range $key, $value := $products }}
+{{/*  name, url, name, image, url, price  */}}
+{{ $mdTemplate := printf "- ### [%s](%s) [![%s](%s)](%s) %s" $value.name $value.url $value.name $value.image $value.url $value.price }}
+{{ $allMd = printf "%s\n%s" $allMd $mdTemplate  }}
+{{ end }}
+{{ $allMd | markdownify}}

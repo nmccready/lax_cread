@@ -1,0 +1,20 @@
+article.post-single.store .post-content ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+}
+
+article.post-single.store .post-content ul li {
+  flex: 1;
+  margin: 5px;
+  /* Add spacing between items */
+  min-width: 200px;
+  /* Adjust the minimum width of each item */
+}
+
+/* article.post-single.store img {
+  width: 50%;
+  height: auto;
+} */

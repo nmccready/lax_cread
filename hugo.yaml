@@ -28,12 +28,12 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
+  ShowReadingTime: false
   ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
-  ShowWordCount: true
+  ShowWordCount: false
   ShowRssButtonInSectionTermList: true
   UseHugoToc: true
   disableSpecial1stPost: false
@@ -43,6 +43,45 @@ params:
   hideSummary: false
   showtoc: false
   tocopen: false
+
+  products:
+    sticks:
+      StringKingComplete_2Jr:
+        name: String King Complete 2 Jr.
+        image: "/images/store/StringKing_Complete_2_Sr.png"
+        url: https://www.amazon.com/dp/B0778VH4Y8/ref=twister_B0778XR9X8?_encoding=UTF8&amp;psc=1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=f0bf73ac945f688c6d609e4ed045b70a&camp=1789&creative=9325
+        price: $99.99
+        description: "StringKing Complete Jr. lacrosse sticks are designed to be the ultimate intermediate youth lacrosse sticks. The Jr. A 135 is the perfect stick for players under 10 years old."
+      StringKingComplete_2Sr:
+        name: String King Complete 2 Sr.
+        image: "/images/store/StringKing_Complete_2_Sr.png"
+        url: https://www.amazon.com/String-King-Complete-Attack-Silver/dp/B0778TR15L/ref=sr_1_1?crid=3FVL15NYHCTBY&keywords=StringKing%252BComplete%252BSr&qid=1692412570&s=sporting-goods&sprefix=stringking%252Bcomplete%252Bsr%252Csporting%252C90&sr=1-1&th=1&_encoding=UTF8&=cread04-20&=ur2&=76fe1c190d0a2c6d01e63727620f7ece&=1789&=9325
+        price: $169.99
+      StringKingCompleteInt:
+        name: String King Complete Int.
+        image: "/images/store/StringKing_Complete_2_Int.png"
+        url: https://www.amazon.com/String-King-Complete-Intermediate-Attack/dp/B0778TTQHQ/ref=sr_1_2?crid=HWYIHFFSHGY0&amp;keywords=StringKing%252BComplete%252BInt&amp;qid=1692412662&amp;s=sporting-goods&amp;sprefix=stringking%252Bcomplete%252Bint%252Csporting%252C78&amp;sr=1-2&amp;th=1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=d067aa33d65e2c5557eb1e46fdc705ca&camp=1789&creative=9325
+        price: $129.99
+      PowellScoutYouthComplete:
+        name: Powell Scout Youth Complete
+        image: "/images/store/Powell_Scout_Youth_Complete.png"
+        url: "https://www.amazon.com/Powell-Lacrosse-Complete-Attack-Midfielder/dp/B0BYBB7ZRJ/ref=sr_1_1?crid=20T3WO64V8BQ6&keywords=Powell+Complete+Stick&qid=1692411791&s=sporting-goods&sprefix=powell+complete+stick%252Csporting%252C83&sr=1-1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=92974cd3b18ae3907805c90679613869&camp=1789&creative=9325"
+        price: "$65.00"
+      PowellRangerComplete:
+        name: Powell Ranger Complete
+        image: "/images/store/Powell_Ranger_Complete.png"
+        url: "https://www.amazon.com/Powell-Lacrosse-Ranger-Complete-Stick/dp/B0BYB99XG1/ref=sr_1_1?crid=31GHWHNRFT85Y&keywords=Powell+Ranger+Complete&qid=1692412306&s=sporting-goods&sprefix=powell+ranger+complete%252Csporting%252C103&sr=1-1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=d7bbb2be0bda31fd5dba7e80e520c186&camp=1789&creative=9325"
+        price: "$150.00"
+      PowellSwitchbackComplete:
+        name: Powell Switchback Complete
+        image: "/images/store/Powell_Switchback_Complete.png"
+        url: "https://www.amazon.com/Powell-Lacrosse-Switchback-Complete-Stick/dp/B0BYKY2MC1/ref=sr_1_2?crid=3QFSWCNN01U43&keywords=Powell+Switchback+Complete&qid=1692412429&s=sporting-goods&sprefix=powell+switchback+complete%252Csporting%252C83&sr=1-2&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=0c2bd386e36231f14c8edabcf1254386&camp=1789&creative=9325"
+        price: "$135.00"
+      PowellBloodlineComplete:
+        name: Powell Bloodline Complete
+        image: "/images/store/Powell_Bloodline_Complete.png"
+        url: "https://www.amazon.com/Powell-Lacrosse-Bloodline-Complete-Stick/dp/B0BYB8R5SX/ref=sr_1_1?crid=45WK1YWH8UT&keywords=Powell+Bloodline+Complete&qid=1692412498&s=sporting-goods&sprefix=powell+bloodline+complete%252Csporting%252C89&sr=1-1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=877cd6607bcf8e0e4357f3b361601391&camp=1789&creative=9325"
+        price: "$165.00"
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -107,10 +146,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/nmccready/lax_cread/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/nmccready/lax_cread/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
