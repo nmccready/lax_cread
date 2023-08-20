@@ -20,8 +20,52 @@ params:
     disclose: "Note: Some links may be affiliate links. We may get paid if you buy something or take an action after clicking one of the links."
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: LAXCREAD
-  description: "Blogging all things Lacrosse"
-  keywords: [Blog, Lacrosse, Lax, Hugo, PaperMod]
+  description: "Blogging all things Lacrosse and lacrosse product recommendations (sticks, heads, shafts, gloves, pads, cleats, helmets, goalie gear, etc)."
+  keywords:
+    - Blog
+    - Lacrosse
+    - Lax
+    - LaxCread.com
+    - LaxCread
+    - PLL
+    - MLL
+    - NLL
+    - NCAA
+    - USL
+    - US Lacrosse
+    - Lacrosse
+    - Lacrosse Blog
+    - Lacrosse Blogging
+    - Lacross
+    - Maverik
+    - ECD
+    - STX
+    - StringKing
+    - Warrior
+    - Brine
+    - Nike
+    - Under Armour
+    - EPOCH
+    - GAIT
+    - Lacrosse Gear
+    - Lacrosse Equipment
+    - Lacrosse Stick
+    - Lacrosse Head
+    - Lacrosse Shaft
+    - Lacrosse Gloves
+    - Lacrosse Pads
+    - Lacrosse Cleats
+    - Lacrosse Shoes
+    - Lacrosse Helmet
+    - Lacrosse Goalie
+    - Lacrosse Goalie Gear
+    - Lacrosse Goalie Equipment
+    - Lacrosse Goalie Stick
+    - Lacrosse Goalie Head
+    - Crosse
+    - Lacrosse Crosse
+    - Cascade
+
   author: Nicholas McCready
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -122,7 +166,7 @@ params:
     Title: "Hi there \U0001F44B"
     Content:
       Welcome to the LaxCread blog. This is a place where I write about all things Lacrosse.
-      I hope you enjoy the content and feel free to reach out to me on twitter AKA X
+      I hope you enjoy the content and feel free to reach out to me on twitter (AKA X)
       [@nmccready](https://twitter.com/nmccready).
 
   socialIcons:
@@ -136,10 +180,10 @@ params:
   analytics:
     google:
       SiteVerificationTag: "ksUdtmtrNf51Llwiz9kA4SdBGojGjF0Yb1xEUkBBiyY"
-    bing:
-      SiteVerificationTag: "XYZabc"
-    yandex:
-      SiteVerificationTag: "XYZabc"
+    # bing: # done through google proxy -> bing
+    #   SiteVerificationTag: "XYZabc"
+    # yandex:
+    #   SiteVerificationTag: "XYZabc"
 
   cover:
     hidden: true # hide everywhere but not in structured data
