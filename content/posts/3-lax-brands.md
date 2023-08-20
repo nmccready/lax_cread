@@ -1,7 +1,7 @@
 ---
 title: "Lax Brands"
 date: 2023-08-20T11:05:07-04:00
-draft: true
+# draft: true
 ---
 
 ## Old Days
@@ -24,7 +24,7 @@ This brings us to today 2023 (wow I’m old) where many lacrosse businesses popp
 
 In my shallow research it appears this trend may have started in 2005-2011 when Maverik, StringKing and East Coast Dyes were founded. Each of these companies have their sticks hand strung (or seem hand-string) before they are shipped out by real players and or following a template made by players. My own personal first exposure to this was purchasing an ECD Rebel Offense, ECD Mirage and a Maverik heads / sticks.
 
-ECD and StringKing make of the best string kits on the market. These kits can be purchased at [Amazon](https://www.amazon.com/?&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=c569e67d0eab0fd112e44c8a99019571&camp=1789&creative=9325), Walmart (online or local store), and [Dicks Sporting Goods](https://www.dickssportinggoods.com/c/lacrosse). Always keep an eye out on out of season clearance section in walmart. You can seriously score big time one clearance sticks (be careful not always good), and string kits.
+ECD and StringKing make of the best string kits on the market. These kits can be purchased at [Amazon](https://www.amazon.com/?&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=c569e67d0eab0fd112e44c8a99019571&camp=1789&creative=9325), [Walmart](https://www.walmart.com/search?q=StringKing) (online or local store), and [Dicks Sporting Goods](https://www.dickssportinggoods.com/c/lacrosse). Always keep an eye out on out of season clearance section in walmart. You can seriously score big time one clearance sticks (be careful not always good), and string kits.
 
 ## TLDR
 
