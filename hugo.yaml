@@ -126,6 +126,38 @@ params:
         image: "/images/store/Powell_Bloodline_Complete.png"
         url: "https://www.amazon.com/Powell-Lacrosse-Bloodline-Complete-Stick/dp/B0BYB8R5SX/ref=sr_1_1?crid=45WK1YWH8UT&keywords=Powell+Bloodline+Complete&qid=1692412498&s=sporting-goods&sprefix=powell+bloodline+complete%252Csporting%252C89&sr=1-1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=877cd6607bcf8e0e4357f3b361601391&camp=1789&creative=9325"
         price: "$165.00"
+      EcdImpact:
+        name: ECD Impact (Goalie)
+        image: "/images/store/ECD_Impact.png"
+        url: https://ecdlax.com/products/impact?variant=39839764414577
+        price: $174.99
+        resolution: 854x732
+      EcdRebelOffense:
+        name: ECD Rebel Offense
+        image: "/images/store/ECD_Rebel_Offense.png"
+        url: https://ecdlax.com/products/rebel-offense?variant=32007034306673
+        price: $129.99
+      EcdRebelDefense:
+        name: ECD Rebel Defense
+        image: "/images/store/ECD_Rebel_Defense.png"
+        url: https://ecdlax.com/products/rebel-defense?variant=32007045415025
+        price: $129.99
+      EcdMirage2.0:
+        name: ECD Mirage 2.0
+        image: "/images/store/ECD_Mirage_2.0.png"
+        url: https://ecdlax.com/products/mirage-2-0?variant=32007120093297
+        price: $144.99
+      EcdWeaponX:
+        name: ECD Weapon X
+        image: "/images/store/ECD_Weapon_X.png"
+        url: https://ecdlax.com/products/weapon-x?variant=32007065665649
+        price: $129.99
+      EcdDna2.0:
+        name: ECD DNA 2.0
+        image: "/images/store/ECD_DNA_2.0.png"
+        url: https://ecdlax.com/collections/mens-lacrosse-heads/products/dna-2-0?variant=45269754413355
+        price: $144.99
+        #commonRes: 693x693
 
   assets:
     # disableHLJS: true # to disable highlight.js
