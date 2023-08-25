@@ -5,4 +5,10 @@
 hideMeta: true
 ---
 
+## Sticks (Crosse)
+
 {{< products type="sticks" >}}
+
+## Protection
+
+{{< products type="protection" >}}
