@@ -257,7 +257,7 @@ params:
 menu:
   main:
     - identifier: store
-      name: store
+      name: Gear
       url: /store/
       weight: 10
     # - identifier: tags

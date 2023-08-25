@@ -1,10 +1,16 @@
 {{ $map := .Get "type" }}
+{{ $showPrice := .Get "showPrice" }}
 {{ $products := index .Site.Params.products $map }}
 {{ $allMd := "" }}
 
 {{ range $key, $value := $products }}
 {{/*  name, url, name, image, url, price  */}}
-{{ $mdTemplate := printf "- ### [%s](%s) [![%s](%s)](%s) %s" $value.name $value.url $value.name $value.image $value.url $value.price }}
+{{ $mdTemplate := "" }}
+{{ if ne $showPrice "" }}
+  {{ $mdTemplate = printf "- ### [%s](%s) [![%s](%s)](%s) %s" $value.name $value.url $value.name $value.image $value.url $value.price }}
+{{ else }}
+  {{ $mdTemplate = printf "- ### [%s](%s) [![%s](%s)](%s)" $value.name $value.url $value.name $value.image $value.url }}
+{{ end }}
 {{ $allMd = printf "%s\n%s" $allMd $mdTemplate  }}
 {{ end }}
 {{ $allMd | markdownify}}

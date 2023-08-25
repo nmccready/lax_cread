@@ -7,8 +7,8 @@ hideMeta: true
 
 ## Sticks (Crosse)
 
-{{< products type="sticks" >}}
+{{< products type="sticks" showPrice="true" >}}
 
 ## Protection
 
-{{< products type="protection" >}}
+{{< products type="protection" showPrice="true" >}}
