@@ -1,5 +1,5 @@
 ---
-title: "Boys Grade Starter Sticks"
+title: "Boys Starter Sticks / Crosse"
 date: 2023-08-16T20:46:47-04:00
 weight: 2
 ---
