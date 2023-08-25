@@ -2,6 +2,7 @@
 title: "Lax Brands"
 date: 2023-08-20T11:05:07-04:00
 # draft: true
+weight: 3
 ---
 
 ## Old Days

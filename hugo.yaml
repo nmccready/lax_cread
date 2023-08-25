@@ -96,6 +96,16 @@ params:
         url: https://www.amazon.com/dp/B084ZSSFZV?ref=nb_sb_ss_w_as-reorder-t1_k0_1_4&amp;amp=&amp;crid=3BI5JC4EHF7Q2&amp;sprefix=sisu&amp;th=1&_encoding=UTF8&tag=cread04-20&linkCode=ur2&linkId=cb22447b812c2e20274112a256e4f923&camp=1789&creative=9325
         price: $16.99-19.99
         description: "SISU Aero NextGen mouth guards offer premium, warrantied dental protection for players age 11 and up, including adults. At only 1.6mm thick, the ultralight design of the Aero is 50% thinner than conventional sports mouth guards, providing maximum comfort and convenience."
+      WarriorBurn:
+        name: Warrior Burn
+        image: "/images/store/Warrior_Burn.png"
+        url: https://www.universallacrosse.com/products/warrior-burn-customizer-helmet
+        price: $249.99
+      CascadeXrs:
+        name: Cascade XRS
+        image: "/images/store/Cascade_XRS.png"
+        url: https://www.universallacrosse.com/products/cascade-xrs-customizer-helmet
+        price: $319.99
     sticks:
       StringKingComplete_2Jr:
         name: String King Complete 2 Jr.
