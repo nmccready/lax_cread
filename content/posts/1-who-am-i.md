@@ -16,7 +16,8 @@ I am Coach McCready, and I have been involved in lacrosse since 2018. In Decembe
 - [CYL](https://www.cylax.org/) Head Coach Boys 2021 - Present
 - [CYL Director of Boys Coaching](https://www.cylax.org/) Head Coach Boys 2021 - Present
 - 2031-2032 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Assistant Coach, 2022-2023
-- 2032-2033 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Head Coach, 2023-2024
+- 2032-2033 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Head Coach, Fall 2023
+- Private Goalie Coaching 2021-Present
 
 Throughout this journey, I have strived to learn as much about lacrosse as possible. As with anything, the game is constantly evolving, and there is always something new to learn. Coaching and giving back to the game has been one of the most rewarding experiences of my life. There is nothing quite like giving back to something that has given you so much. The other great aspect of this game is the people you meet along the way—coaches, parents, players, and more. I am grateful for the opportunity to be a part of the lacrosse community.
 

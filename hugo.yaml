@@ -272,10 +272,6 @@ menu:
       name: NMS
       url: https://www.northmeetssouthlacrosse.com
       weight: 40
-    - identifier: fca
-      name: FCA
-      url: https://www.fcarichmondlacrosse.com/
-      weight: 50
 # copyright: "# junk"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
