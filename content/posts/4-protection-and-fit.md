@@ -27,7 +27,7 @@ This is why I recommend the Sisu above all else for mouth guards. The fitment is
 
 Since 2022 All shoulder pads must be NOCSAE certified according to USA lacrosse. For more details see [USA Lacrosse](https://www.usalacrosse.com/lacrosse-chest-protector-faq) and [here](https://www.lacrosseplayground.com/gear-review-new-nd200-nocsae-certified-lacrosse-shoulder-pads/#:~:text=Starting%20in%20January%202022%2C%20all%20shoulder%20pads%20must,a%20stoppage%20of%20the%20heart%20after%20an%20impact.).
 
-![](/images/NOCSAE-SEI-product-logo.png)
+![](/lax_cread/images/NOCSAE-SEI-product-logo.png)
 
 For a quality write up on shoulder pad fitment see [here](https://www.dickssportinggoods.com/protips/sports-and-activities/lacrosse/buy-lacrosse-shoulder-pads).
 
