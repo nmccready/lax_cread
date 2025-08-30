@@ -14,10 +14,13 @@ I am Coach McCready, and I have been involved in lacrosse since 2018. In Decembe
 - [North Meets South Box (Indoor)](https://www.northmeetssouthlacrosse.com/page/show/1063919-richmond-box-lacrosse) 2021-Present
 - [North Meets South Summer Camp](https://www.northmeetssouthlacrosse.com/page/show/1063929-2023-summer-camp) 2021-Present
 - [CYL](https://www.cylax.org/) Head Coach Boys 2021 - Present
-- [CYL Director of Boys Coaching](https://www.cylax.org/) Head Coach Boys 2021 - Present
+- [CYL Director of Boys Coaching](https://www.cylax.org/) Head Coach Boys 2021 - 2024
 - 2031-2032 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Assistant Coach, 2022-2023
 - 2032-2033 [FCA Richmond Lacrosse](https://www.fcarichmondlacrosse.com/) Head Coach, Fall 2023
 - Private Goalie Coaching 2021-Present
+- True Lacrosse Coaching 2025 - Present
+- True Lacrosse 2030/2031 Assistant Coach Summer 2025
+- R3VA (Richmond Revolution Lacrosse) Owner, Head Coach 2025-Present (Sixes Lacrosse)
 
 Throughout this journey, I have strived to learn as much about lacrosse as possible. As with anything, the game is constantly evolving, and there is always something new to learn. Coaching and giving back to the game has been one of the most rewarding experiences of my life. There is nothing quite like giving back to something that has given you so much. The other great aspect of this game is the people you meet along the way—coaches, parents, players, and more. I am grateful for the opportunity to be a part of the lacrosse community.
 
@@ -36,4 +39,4 @@ During my younger years I exclusively played goalie. I always loved the game but
 
 #### Why Blog?
 
-Every season coaching parents like to have background about myself and or my recommendations for lacrosse. Instead of sending out the same email, I decided it was time to share these things more publicly.
+Every season caching, parents like to have background about myself and or my recommendations for lacrosse. Instead of sending out the same email, I decided it was time to share these things more publicly.
