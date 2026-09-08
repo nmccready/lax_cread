@@ -34,7 +34,7 @@ During my younger years I exclusively played goalie. I always loved the game but
 
 **This is a one of the reasons that I try to push most young players away from playing goalie exclusively.**
 
-- [Freedom Lacrosse](https://www.freedomlacrosse.org/) 1991-1994
+- [Freedom Lacrosse](https://www.freedomlacrosse.org/) 1991-1994 (Started Playing in 6th Grade)
 - [South Carroll High School JV](https://cavalierathletics.com/) 1995-1996
 - [South Carroll High School Varsity](https://cavalierathletics.com/) Starting Goalie 1997-1998
 - [University of Lynchburg](https://www.lynchburgsports.com/sports/mlax/index)
