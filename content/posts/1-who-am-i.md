@@ -19,7 +19,7 @@ Coaching:
 - Private Goalie Coaching 2021-Present
 - True Lacrosse Coaching 2025 - 2026
 - True Lacrosse 2030/2031 Assistant Coach Summer 2025
-- R3VA (Richmond Revolution Lacrosse) Owner, Head Coach 2025-Present (Sixes Lacrosse)
+- [R3VA (Richmond Revolution Lacrosse)](https://nmccready.github.io/r3va-lax/) Owner, Head Coach 2025-Present (Sixes Lacrosse)
 
 Playing:
 - [North Meets South Box (Indoor)](https://www.northmeetssouthlacrosse.com/page/show/1063919-richmond-box-lacrosse) 2021-Present

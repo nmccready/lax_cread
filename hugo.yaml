@@ -264,6 +264,10 @@ menu:
     #   name: tags
     #   url: /tags/
     #   weight: 20
+    - identifier: R3VA
+      name: R3VA
+      url: https://nmccready.github.io/r3va-lax/
+      weight: 20
     - identifier: cyl
       name: CYL
       url: https://www.cylax.org/
