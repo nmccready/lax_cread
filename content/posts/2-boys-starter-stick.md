@@ -8,8 +8,8 @@ Getting thrown into the world of lacrosse can be overwhelming for both parents a
 
 Recommended Reads:
 
-[Lacrosse Rules](https://www.usalacrosse.com/rules) (new parents familiarize yourself with closest to ball on shots, go back to native american lacrosse)
-[Lacrosse A Parent's Complete Guide](https://northlax.com/lacrosse-101/)
+- [Lacrosse Rules](https://www.usalacrosse.com/rules) (new parents familiarize yourself with closest to ball on shots, go back to native american lacrosse)
+- [Lacrosse A Parent's Complete Guide](https://northlax.com/lacrosse-101/)
 
 ## Stick Guide
 
